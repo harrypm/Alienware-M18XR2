@@ -29,7 +29,7 @@ As you would expect this laptop had full 100w power to each 16x MXM slot as as s
 
 ## Power Supply
 
-EuroCom to this day still sells there 750w universal laptop power supply with the correct cable.
+EuroCom to this day still sells there [750w universal laptop power supply with](https://eurocom.com/ec/configure(2,404,0)ec) the correct cable.
 
 ## Replacment Audio IC's
 
