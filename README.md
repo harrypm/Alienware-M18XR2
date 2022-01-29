@@ -24,6 +24,8 @@ Over the years there have been many modifyed bios's with the last and most promi
 
 As you would expect this laptop had full 100w power to each 16x MXM slot as as such 680M and 980M bios unlock firmware mods were made witch are both in this archive.
 
+
+
 ## CPU Overclocking
 3940XM and 3920XM were great clockers most should beable to get upto 4.4GHz without voltage tweaks and upto 4.9GHz with more cooling added.
 
@@ -33,4 +35,8 @@ EuroCom to this day still sells there [750w universal laptop power supply with](
 
 ## Replacment Audio IC's
 
-As many who have owned these laptops will know the amp chips love to melt and or just die this was a oversight but these chips can be repalced with a basic SMD reflow station parts models are ## ## ##
+As many who have owned these laptops will know the amp chips love to melt and or just die this was a oversight but these chips can be repalced with a basic SMD reflow station parts models are
+
+AMP IC:Maxum Intergreated MAX9736AETJ+T (2x)
+
+Sound IC: Tempo Semiconductor 92HD81B   (1x)
