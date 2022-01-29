@@ -6,14 +6,22 @@ This is a work in progress while I dig up documents and notes that have been mad
 
 # My Alienware
 
-M18XR2
+M18XR2 (Maxed Out Stock UK Configuration)
+
 CPU: 3940XM 4.4GHz
+
 GPU: 680m SLI (2x)
+
 RAM: 4x SK Hynix 8GB DDR3L 1600mhz
+
 SSD: Crusal MX 500GB 2x
+
 HDD: Original 350GB HDD
+
 ODD: Orignal Bluray read writer
+
 WIGI: Card not installed!
+
 OS: Windows 7 Stock / Windows 10 Modded / Ubuntu LTS 20.04
 
 ## Bios Modificaitons
@@ -30,6 +38,10 @@ As you would expect this laptop had full 100w power to each 16x MXM slot as as s
 ## Power Supply
 
 EuroCom to this day still sells there [750w universal laptop power supply with](https://eurocom.com/ec/configure(2,404,0)ec) the correct cable.
+
+## NVME MXM 16x Slot upgrade
+
+As Many users find them selfs going back to single GPU's for the new MXM cards they have an empty slot so thanks to china we have this [MXM to M.2 NVME](https://m.alibaba.com/product/1600069323445/The-Adapter-New-original-MXM-to.html) Note the webpage is broken use the Alibaba mobile app to make an order.
 
 ## Replacment Audio IC's
 
