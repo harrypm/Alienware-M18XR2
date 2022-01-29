@@ -24,8 +24,6 @@ Over the years there have been many modifyed bios's with the last and most promi
 
 As you would expect this laptop had full 100w power to each 16x MXM slot as as such 680M and 980M bios unlock firmware mods were made witch are both in this archive.
 
-
-
 ## CPU Overclocking
 3940XM and 3920XM were great clockers most should beable to get upto 4.4GHz without voltage tweaks and upto 4.9GHz with more cooling added.
 
