@@ -14,13 +14,13 @@ GPU: 680m SLI (2x)
 
 RAM: 4x SK Hynix 8GB DDR3L 1600mhz
 
-SSD: Crusal MX 500GB 2x
+SSD: Crucial MX500 500GB 2x
 
 HDD: Original 350GB HDD
 
 ODD: Orignal Bluray read writer
 
-WIGI: Card not installed!
+WirelessHD: Not Owned/Installed
 
 OS: Windows 7 Stock / Windows 10 Modded / Ubuntu LTS 20.04
 
@@ -50,3 +50,11 @@ As many who have owned these laptops will know the amp chips love to melt and or
 AMP IC:Maxum Intergreated MAX9736AETJ+T (2x)
 
 Sound IC: Tempo Semiconductor 92HD81B   (1x)
+
+## [SiBeam WirelessHD](https://en.wikipedia.org/wiki/WirelessHD)
+
+60-GHz (7 Ghz Band) is as 4Gbps 10m direct video stream system it was pretty amazing for 2012-14 consumers sadly not seeing much use before SiBeam folded into Silicon Image.
+
+This gave you the abbility to directly stream your laptops 1080p 60p stream directly to a TV or laptop.
+
+Today in 2022 this has been widly supassed by Miracast witch incorrates the same fetures and or network redirect abbilitys.
