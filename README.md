@@ -43,6 +43,10 @@ EuroCom to this day still sells there [750w universal laptop power supply with](
 
 As Many users find them selfs going back to single GPU's for the new MXM cards they have an empty slot so thanks to china we have this [MXM to M.2 NVME](https://m.alibaba.com/product/1600069323445/The-Adapter-New-original-MXM-to.html) Note the webpage is broken use the Alibaba mobile app to make an order.
 
+![NVME Adapter 01](https://github.com/harrypm/Alienware-M18XR2/blob/main/Images/NVME%2016x%20MXM%20PCIE%20to%204x%20NVME%20Adapter%20Board.jpg)
+
+![NVME Adapter 02](https://github.com/harrypm/Alienware-M18XR2/blob/main/Images/NVME%20Adapter%20Installed%20Cover%20On.jpg)
+
 ## Replacement Audio IC's
 
 As many who have owned these laptops will know the amp chips love to melt and or just die this was a oversight but these chips can be repalced with a basic SMD reflow station parts models are.
