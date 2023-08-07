@@ -47,6 +47,14 @@ As Many users find them selfs going back to single GPU's for the new MXM cards t
 
 ![NVME Adapter 02](https://github.com/harrypm/Alienware-M18XR2/blob/main/Images/NVME%20Adapter%20Installed%20Cover%20On.jpg)
 
+## Replacement BIOS IC's
+
+[Macronix MXIC MX25L6406E](https://web.archive.org/web/20230807112020/https://www.macronix.com/Lists/Datasheet/Attachments/8630/MX25L6406E,%203V,%2064Mb,%20v1.9.pdf)
+
+8mb SOP8 (8 leg SMD Chip) 
+
+Easy to remove with flux/copper braid and a soldering iron, flow one leg on each side before doing outhers to secure new chip down.
+
 ## Replacement Audio IC's
 
 As many who have owned these laptops will know the amp chips love to melt and or just die this was a oversight but these chips can be repalced with a basic SMD reflow station parts models are.
